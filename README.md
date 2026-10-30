@@ -8,5 +8,7 @@ NIM: 314251020001
 
 
 
-(Your own short description: what this repository is for.)
+# About This Repository
+
+This repository is where I keep my notes from the Collaborative Computing course. It contains summaries of the materials covered in each meeting, along with my practice using Git and GitHub.
 
