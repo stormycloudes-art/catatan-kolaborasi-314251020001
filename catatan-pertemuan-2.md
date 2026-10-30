@@ -36,13 +36,13 @@ A good practice is to combine both methods: use synchronous communication for di
 
 
 
-\## 3- Types of Groupware
+## 3- Types of Groupware
 
 
 
 Groupware refers to software that supports teamwork and collaboration. Its main types include:
 
-&#x20;
+
 
 * **Communication**: Email, chat, and forums for exchanging messages.
 * **Conferencing**: Video and audio conferences, webinars, and screen sharing.
@@ -53,13 +53,13 @@ Groupware refers to software that supports teamwork and collaboration. Its main 
 
 
 
-\## 4- Key Features of Collaborative Systems
+## 4- Key Features of Collaborative Systems
 
 
 
 Collaborative systems have several important features:
 
-&#x20;
+
 
 * **Shared Workspace**: Allows authorized team members to access and modify the same files or documents.
 * **Awareness**: Shows who is online and what other members are currently working on.
@@ -68,13 +68,13 @@ Collaborative systems have several important features:
 
 
 
-\## 5- Centralized and Peer-to-Peer Architecture
+## 5- Centralized and Peer-to-Peer Architecture
 
 
 
 Collaborative systems use two main architectures:
 
-&#x20;
+
 
 * **Centralized (Client-Server)**: A central server manages data and acts as the main source of information. It is easier to manage but can become a single point of failure.
 * **Peer-to-Peer (Distributed)**: Each participant keeps their own copy of the data and exchanges changes with others. It is more resilient, but synchronization is more complicated.
